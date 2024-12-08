@@ -341,5 +341,3 @@ Response:
 3. Commit changes
 4. Create pull request
 
-## License
-MIT License
